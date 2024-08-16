@@ -11,12 +11,24 @@
 💬 Ask me about **React Native**, **JavaScript**  
 ⚡ Fun fact: Talk is cheap, show me your apps! :D
 
-## 🛠️ Skills
+## 🛠️ My Tech Stack
 
-- **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries**: React Native, React, Redux
-- **Tools**: Git, Xcode, Android Studio, VS Code
-- **Databases**: Firebase, MongoDB, SQL
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hieumai97&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieumai97&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieumai97&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 
 ## 🌟 Projects
 
