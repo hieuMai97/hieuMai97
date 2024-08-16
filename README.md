@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hieumai97&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieumai97&theme=radical" alt="GitHub Streak Stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieumai97&theme=radical" alt="GitHub Streak Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieumai97&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
@@ -33,7 +33,7 @@
 
 
 ## 🌟 Projects
-
+<!--  
 ### 1. [Project Name](https://github.com/hieumai97/project-repo)
    - **Description**: Brief description of the project.
    - **Tech Stack**: React Native, Redux, Firebase.
@@ -43,7 +43,7 @@
    - **Description**: Brief description of the project.
    - **Tech Stack**: React, Node.js, Express.js.
    - **Features**: Key features or functionalities.
-
+-->
 ## 📫 How to reach me
 
 - **Email**: [hieu.mai@example.com](mailto:hieumta1997@gmail.com)
