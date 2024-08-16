@@ -60,9 +60,3 @@
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieumai97&theme=radical" alt="GitHub Streak Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieumai97&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-![GitHub Snake Animation](https://github.com/hieumai97/hieumai97/blob/output/github-contribution-grid-snake.svg)
-
-## 🌟 GitHub Contributions
-
-![GitHub Contributions](https://github.com/hieumai97/hieumai97/blob/output/github-contribution-grid-snake.svg)
