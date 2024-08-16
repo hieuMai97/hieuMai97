@@ -31,7 +31,6 @@
 
 ![GitHub Snake Animation](https://github.com/hieumai97/hieumai97/blob/output/github-contribution-grid-snake.svg)
 
-
 ## 🌟 Projects
 <!--  
 ### 1. [Project Name](https://github.com/hieumai97/project-repo)
