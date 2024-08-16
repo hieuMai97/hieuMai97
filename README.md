@@ -45,7 +45,7 @@
 ## 🌐 Languages
 
 - Vietnamese: Native
-- English: Professional working proficiency
+ **English**: Basic proficiency
 
 ## 🎯 Goals
 
