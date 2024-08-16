@@ -45,7 +45,7 @@
 ## 🌐 Languages
 
 - Vietnamese: Native
- **English**: Basic proficiency
+- **English**: Basic proficiency
 
 ## 🎯 Goals
 
