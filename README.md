@@ -14,7 +14,7 @@
 ## 🛠️ Skills
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks/Libraries**: React Native, React, Redux, Express.js
+- **Frameworks/Libraries**: React Native, React, Redux
 - **Tools**: Git, Xcode, Android Studio, VS Code
 - **Databases**: Firebase, MongoDB, SQL
 
@@ -32,13 +32,8 @@
 
 ## 📫 How to reach me
 
-- **LinkedIn**: [Mai Xuân Hiếu](https://www.linkedin.com/in/hieumai97)
-- **Email**: [hieu.mai@example.com](mailto:hieu.mai@example.com)
+- **Email**: [hieu.mai@example.com](mailto:hieumta1997@gmail.com)
 - **GitHub**: [hieumai97](https://github.com/hieumai97)
-
-## 📝 Blog & Writing
-
-- [My Blog](https://myblog.com): Sharing knowledge and insights about web and mobile development.
 
 ## 🎓 Education
 
