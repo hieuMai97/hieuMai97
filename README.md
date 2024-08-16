@@ -21,16 +21,6 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieumai97&show_icons=true&theme=radical" alt="GitHub Stats" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieumai97&theme=radical" alt="GitHub Streak Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieumai97&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-![GitHub Snake Animation](https://github.com/hieumai97/hieumai97/blob/output/github-contribution-grid-snake.svg)
-
 ## 🌟 Projects
 <!--  
 ### 1. [Project Name](https://github.com/hieumai97/project-repo)
@@ -62,4 +52,14 @@
 - Contribute to open-source projects.
 - Build scalable and maintainable mobile applications.
 - Continuously improve my skills in backend development and cloud computing.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hieumai97&show_icons=true&theme=radical" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hieumai97&theme=radical" alt="GitHub Streak Stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieumai97&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+![GitHub Snake Animation](https://github.com/hieumai97/hieumai97/blob/output/github-contribution-grid-snake.svg)
 
