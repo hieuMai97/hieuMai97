@@ -40,7 +40,7 @@
 
 ## 🎓 Education
 
-- **Bachelor's Degree in Electronics and Telecommunications** - Military Technical Academy, Viet Nam
+- **Bachelor's Degree** - Military Technical Academy, Viet Nam
 
 ## 🌐 Languages
 
