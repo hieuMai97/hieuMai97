@@ -24,15 +24,18 @@
 ## 🌟 Projects
 
 ### 1. [POSMobile]
-   - **Description**: POSMobile is a comprehensive mobile application designed to streamline retail operations. It integrates POS functionalities with advanced features for managing appointments, inventory, and customer interactions, providing a seamless experience for both staff and clients.
-   - **Tech Stack**: React Native, Redux.
-   - **Features**:
-POS: Effortless transactions, sales tracking, and customer checkout.
-Calendar Scheduling: Schedule appointments, manage bookings, and track events.
-Retail & Inventory: Track inventory, manage stock, and handle product sales.
-Client Management: Manage customer details, track payments, and review client history.
-Multi-Locations: Oversee operations across multiple business sites.
-Staff Management: Efficiently manage staff schedules and roles.
+
+**Description**: POSMobile is a comprehensive mobile application designed to streamline retail operations. It integrates POS functionalities with advanced features for managing appointments, inventory, and customer interactions, providing a seamless experience for both staff and clients.
+
+**Tech Stack**: React Native, Redux
+
+**Features**:
+- **POS**: Effortless transactions, sales tracking, and customer checkout.
+- **Calendar Scheduling**: Schedule appointments, manage bookings, and track events.
+- **Retail & Inventory**: Track inventory, manage stock, and handle product sales.
+- **Client Management**: Manage customer details, track payments, and review client history.
+- **Multi-Locations**: Oversee operations across multiple business sites.
+- **Staff Management**: Efficiently manage staff schedules and roles.
 
 <!--  
 ### 2. [Project Name](https://github.com/hieumai97/project-repo)
