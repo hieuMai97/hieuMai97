@@ -22,12 +22,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🌟 Projects
-<!--  
-### 1. [Project Name](https://github.com/hieumai97/project-repo)
-   - **Description**: Brief description of the project.
-   - **Tech Stack**: React Native, Redux, Firebase.
-   - **Features**: Key features or functionalities.
 
+### 1. [POSMobile]
+   - **Description**: Brief description of the project.
+   - **Tech Stack**: React Native, Redux.
+   - **Features**: Key features or functionalities.
+<!--  
 ### 2. [Project Name](https://github.com/hieumai97/project-repo)
    - **Description**: Brief description of the project.
    - **Tech Stack**: React, Node.js, Express.js.
