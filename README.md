@@ -23,7 +23,7 @@
 
 ## 🌟 Projects
 
-### 1. [POSMobile]
+### 1. [POSMobile](https://roxa.app/)
 
 **Description**: POSMobile is a comprehensive mobile application designed to streamline retail operations. It integrates POS functionalities with advanced features for managing appointments, inventory, and customer interactions, providing a seamless experience for both staff and clients.
 
